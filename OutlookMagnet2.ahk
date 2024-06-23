@@ -3,7 +3,9 @@
 ;#################################
 ; App: OUTLOOK MAGNET for AHK v2.
 ; By: kunkel321 (with much help from others)
-; Date: 6-21-2024
+; Date: 6-23-2024
+; AHK Forum thread: https://www.autohotkey.com/boards/viewtopic.php?f=83&t=130938
+; GitHub repo: https://github.com/kunkel321/OutlookMagnet2
 ;#################################
 ; Requires that MS Outlook app is installed on local machine.
 ; (Won't work with Web/Cloud Outlook.)
@@ -187,5 +189,3 @@ End time !d{Tab}{Tab}
 Notes !d{Tab}{Tab}{Tab}{Tab}  Developer Tab must be hidden.
 Save and Close !s
 */
-
-
