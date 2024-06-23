@@ -6,6 +6,7 @@ The AutoHotkey forum thread is here:
 https://www.autohotkey.com/boards/viewtopic.php?f=83&t=130938
 
 Select some text, then activate the code.
+![](https://github.com/kunkel321/OutlookMagnet2/blob/main/OLmagScreenShot.png)
 
 As you might guess, the tool is designed to work with MS Outlook. It won't work with Web/Cloud Outlook.  It only works with the "installed" version on your local machine.  If OL is not installed, you can still get the Preview MsgBox seen in the screenshot, but the tool wouldn't be very useful.   
 
