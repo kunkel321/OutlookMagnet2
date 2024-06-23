@@ -1,0 +1,12 @@
+(Rm|Room)\s?[0-9]{3,}
+(Main\s)?Office
+Counseling
+Commons
+Resource\s?(Rm|Room)?
+\sRR\s
+Conference\s(Rm|Room)(\s(A|B|C|D)\b)?
+(remote\s)?zoom
+Video
+(First|1st)\sFloor
+(Second|2nd)\sFloor
+(Third|3rd)\sFloor
